@@ -1,5 +1,3 @@
-```markdown
-
 # MNIST MLP Project
 
 ## 项目简介
@@ -49,5 +47,5 @@ python mnist_mlp.py
 
 ## 许可证
 本项目遵循 MIT 许可证。请查看 LICENSE 文件以获取更多信息。
-```
+
 
